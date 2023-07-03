@@ -10,8 +10,11 @@ The web-based platform for the RGO will comprise functionalities to handle cater
 ### Food Menu (Customer)
 ![foodmenu](./tmp-images/foodmenu.PNG)
 
-<br>
-
+# Created With 
+## Ionic Framework
+- Ionic is an open source UI toolkit for building performant, high-quality mobile apps using web technologies — HTML, CSS, and JavaScript — with integrations for popular frameworks like Angular, React, and Vue.
+## Angular
+- Angular is a platform and framework for building single-page client applications using HTML and TypeScript. Angular is written in TypeScript. It implements core and optional functionality as a set of TypeScript libraries that you import into your applications.
 # About us
 ## Developers
 
