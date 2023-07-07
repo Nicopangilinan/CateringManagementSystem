@@ -4,6 +4,10 @@
 ![Coverpage](./tmp-images/cover.PNG)
 ## INTRODUCTION
 The web-based platform for the RGO will comprise functionalities to handle catering orders and financial transactions, as well as a searchable database, trend analytics, and backup and recovery mechanisms. Implementing this user-friendly system will alleviate the burden of manual tasks and improve the overall experience for clients and users. This type of service plays a crucial role in supporting various events and activities on campus, including meetings, conferences, seminars, and other gatherings. 
+<img src="
+# SDG
+Consecutively, the RGO is committed to promoting the implementation of Sustainable Development Goals (SDGs), which is why this project incorporates two specific SDGs into its catering service management system. The first is SDG 8 - Decent Work and Economic Growth, which aims to create more job opportunities, improve working conditions, and enhance economic growth. By streamlining the catering service management system, the RGO can increase their work organization and productivity, contributing to the achievement of this SDG. The second is SDG 11 - Sustainable Cities and Communities, which focuses on developing more sustainable communities and cities by improving access to basic services and reducing negative environmental impact. Through integrating sustainable practices into the catering service management system, the RGO can help achieve this SDG as well. Additionally, it was found that promoting SDG 8 and 11 in the workplace leads to positive outcomes such as increased employee satisfaction and better financial performance.
+
 ## Project Screenshots
 ### Login Page Sample
 ![loginpage](./tmp-images/login.PNG)
